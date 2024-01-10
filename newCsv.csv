@@ -1,0 +1,1001 @@
+UserId,Book_id,Rating,Titulo
+1,258,5,La sombra del viento
+2,4081,4, 
+2,260,5,How to Win Friends and Influence People
+2,9296,5,Das Drama des begabten Kindes und die Suche nach dem wahren Selbst: eine Um- und Fortschreibung
+2,2318,3,The Millionaire Next Door: The Surprising Secrets of America's Wealthy
+2,26,4,The Da Vinci Code
+2,315,3,Who Moved My Cheese?
+2,33,4,Memoirs of a Geisha
+2,301,5,Heart of Darkness
+2,2686,5,Blue Ocean Strategy: How to Create Uncontested Market Space and Make Competition Irrelevant
+2,3753,5,"Harry Potter Collection (Harry Potter
+2,8519,5,The House of God
+4,70,4,Ender's Game
+4,264,3,The Sun Also Rises
+4,388,4,Hatchet
+4,18,5,Harry Potter and the Prisoner of Azkaban
+4,27,5,Harry Potter and the Half-Blood Prince
+4,21,5,Harry Potter and the Order of the Phoenix
+4,2,5,Harry Potter and the Philosopher's Stone
+4,23,5,Harry Potter and the Chamber of Secrets
+4,24,5,Harry Potter and the Goblet of Fire
+4,964,4,The Hobbit and The Lord of the Rings
+4,103,5,Le Comte de Monte-Cristo
+4,255,2,Atlas Shrugged
+4,35,5,O Alquimista
+4,287,3,The Fountainhead
+4,337,4,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story
+4,26,3,The Da Vinci Code
+4,84,4,Jurassic Park
+4,58,4,The Adventures of Huckleberry Finn
+4,1117,3,The Lost World
+4,660,3,Congo
+4,111,2,The Memory Keeper's Daughter
+4,5,4,The Great Gatsby
+4,413,4,Les Trois Mousquetaires
+4,8,4,The Catcher in the Rye
+4,2172,4,Welcome to the Monkey House
+4,65,4,"Slaughterhouse-Five
+4,297,4,Cat's Cradle
+4,45,4,Life of Pi
+4,113,4,Catch-22
+4,325,5,A Prayer for Owen Meany
+4,476,3,The World According to Garp
+6,6351,4,Holy Cow: An Indian Adventure
+8,2732,5,"Libellus vere aureus
+8,1432,3,Manifest der Kommunistischen Partei
+8,479,4,Il Principe
+8,3020,5,Die Verwandlung und andere Erzählungen
+8,6195,4,Amerika
+8,614,4,Der Prozeß
+8,4622,5,Franz Kafka's The Castle
+8,9114,5,The Complete Tales and Poems of Edgar Allan Poe
+8,194,4,"Moby Dick; or
+8,14,5,Animal Farm: A Fairy Story
+8,2584,5,Down and Out in Paris and London
+8,55,5,Brave New World
+8,772,4,Πολιτεία
+8,778,5,Notre-Dame de Paris
+8,1937,3,Out of the Silent Planet
+8,493,5,Mere Christianity
+8,362,5,A Grief Observed
+8,1967,3,Τὰ εἰς ἑαυτόν 
+8,529,5,Gulliver’s Travels
+8,5425,5,Sonnenfinsternis
+4,1237,5,The Shell Seekers
+4,145,2,Deception Point
+4,36,5,The Giver
+4,102,5,Where the Wild Things Are
+4,222,4,The Bourne Identity
+4,200,4,Ten Little Niggers
+4,13,4,Nineteen Eighty-Four
+4,640,3,Prey
+4,693,5,Sphere
+4,575,3,Timeline
+4,55,4,Brave New World
+1,268,3,Never Let Me Go
+1,5556,3,The Sea
+1,3638,3,Housekeeping
+1,1796,5,Gilead
+1,867,3,The History of Love
+1,47,3,The Book Thief
+1,2738,3,Balzac et la Petite Tailleuse chinoise
+4,1296,3,State of Fear
+4,50,4,Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein
+4,87,5,Un di Velt Hot Geshvign
+4,86,4,A Time to Kill
+4,123,4,The Firm
+4,32,4,Of Mice and Men 
+4,28,3,Lord of the Flies 
+4,33,3,Memoirs of a Geisha
+4,42,5,Little Women
+4,249,4,Extremely Loud and Incredibly Close
+4,158,4,Charlie and the Chocolate Factory
+4,373,4,The BFG
+4,184,4,Matilda
+4,495,4,A Heartbreaking Work of Staggering Genius
+4,350,3,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream
+4,492,4,Speaker for the Dead
+4,219,4,The Chronicles of Narnia
+4,288,4,The Hunt for Red October
+4,11,4,The Kite Runner 
+4,245,5,Bridge to Terabithia
+4,301,4,Heart of Darkness
+4,1057,3,The Testament
+4,596,3,The Rainmaker
+4,782,3,The Awakening
+4,426,3,A Confederacy of Dunces
+9,397,3,Das Parfum. Die Geschichte eines Mörders
+9,658,4,The Corrections
+9,101,5,Me Talk Pretty One Day
+9,344,4,Naked
+9,372,4,Dress Your Family in Corduroy and Denim
+9,943,5,Holidays on Ice
+9,1923,4,Barrel Fever: Stories and Essays
+9,122,4,Wicked: The Life and Times of the Wicked Witch of the West
+9,212,5,Atonement
+9,1642,4,Song of Solomon
+9,317,4,I Know Why the Caged Bird Sings
+9,33,3,Memoirs of a Geisha
+9,26,2,The Da Vinci Code
+9,9,1,Angels & Demons 
+9,81,1,The Glass Castle
+9,60,5,The Curious Incident of the Dog in the Night-Time
+9,494,2,The Secret History
+9,238,3,Running with Scissors
+9,14,4,Animal Farm: A Fairy Story
+9,570,5,High Fidelity
+9,795,4,About a Boy
+9,2193,2,How to Be Good
+9,11,1,The Kite Runner 
+9,3417,5,Motherless Brooklyn
+9,4139,5,The Mysteries of Pittsburgh
+9,1055,4,Midnight's Children
+9,181,5,In Cold Blood
+9,5,5,The Great Gatsby
+9,119,4,The Handmaid's Tale
+9,4815,5,Blubber
+9,1221,3,Summer Sisters
+9,1301,2,The Broker
+9,1986,2,The Innocent Man
+9,1057,2,The Testament
+9,1037,2,The Street Lawyer
+9,963,2,The Partner
+9,596,2,The Rainmaker
+9,1388,2,The Last Juror
+9,7868,2,The Firm
+9,1407,2,The King of Torts
+9,227,2,The Client
+9,213,2,Die Verwandlung
+9,587,4,Everything Is Illuminated
+9,664,4,Breakfast at Tiffany's
+9,476,2,The World According to Garp
+9,325,2,A Prayer for Owen Meany
+9,407,5,Bel Canto
+9,1311,2,The Pilot's Wife
+9,10,5,Pride and Prejudice
+9,76,4,Sense and Sensibility
+9,171,4,Emma
+11,111,2,The Memory Keeper's Daughter
+11,11,4,The Kite Runner 
+11,94,5,Cien años de soledad
+11,2559,5,Portnoy's Complaint
+11,522,3,Cloud Atlas
+11,258,3,La sombra del viento
+11,408,3,"Guns
+11,516,4,The Amazing Adventures of Kavalier & Clay
+11,6944,3,A Man in Full
+11,426,4,A Confederacy of Dunces
+11,495,3,A Heartbreaking Work of Staggering Genius
+11,574,3,Kitchen Confidential: Adventures in the Culinary Underbelly
+11,8,5,The Catcher in the Rye
+11,26,3,The Da Vinci Code
+11,33,4,Memoirs of a Geisha
+11,3560,5,The Plot Against America
+11,233,5,El amor en los tiempos del cólera
+11,325,4,A Prayer for Owen Meany
+11,3703,3,The Human Stain
+11,2079,4,American Pastoral
+11,1853,3,Memoria de mis putas tristes
+11,9606,3,La increíble y triste historia de la cándida Eréndira y de su abuela desalmada
+11,7277,4,El otoño del patriarca
+11,115,4,Middlesex
+8,177,5,Преступление и наказание
+11,47,4,The Book Thief
+15,8,5,The Catcher in the Rye
+15,2,4,Harry Potter and the Philosopher's Stone
+15,5,4,The Great Gatsby
+15,101,5,Me Talk Pretty One Day
+15,4,3,To Kill a Mockingbird
+15,24,4,Harry Potter and the Goblet of Fire
+15,11,5,The Kite Runner 
+15,27,4,Harry Potter and the Half-Blood Prince
+15,18,4,Harry Potter and the Prisoner of Azkaban
+15,21,3,Harry Potter and the Order of the Phoenix
+15,65,5,"Slaughterhouse-Five
+15,13,4,Nineteen Eighty-Four
+15,33,5,Memoirs of a Geisha
+15,26,3,The Da Vinci Code
+15,2903,4,The Power of Myth
+15,230,4,Persuasion
+15,10,5,Pride and Prejudice
+15,76,5,Sense and Sensibility
+15,471,4,Mansfield Park
+15,483,5,Franny and Zooey
+15,2339,5,"Raise High the Roof Beam
+15,709,5,Nine Stories
+15,167,5,American Gods
+15,361,3,Oliver Twist
+15,326,5,White Oleander
+15,87,5,Un di Velt Hot Geshvign
+15,304,5,I Know This Much Is True 
+15,100,4,The Poisonwood Bible
+15,306,5,She's Come Undone
+15,337,5,The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story
+15,92,4,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything
+15,887,3,As I Lay Dying
+15,119,5,The Handmaid's Tale
+15,310,5,Good in Bed
+15,465,4,In Her Shoes
+15,8440,4,The Dead
+15,71,4,"Frankenstein; or
+15,1329,5,Howl and Other Poems 
+15,795,5,About a Boy
+15,2193,4,How to Be Good
+15,3002,4,Sons and Lovers
+15,241,5,Number the Stars
+15,4043,4,Anne Frank: Beyond the Diary - A Photographic Remembrance
+15,148,4,Girl with a Pearl Earring
+15,68,5,The Perks of Being a Wallflower
+15,1144,4,Prodigal Summer
+15,941,4,The Hours
+15,782,4,The Awakening
+15,1993,5,The Vampire Armand
+15,1217,5,The Witching Hour
+15,2347,5,Lasher
+15,7260,4,The Feast of All Saints
+15,9363,4,Belinda
+15,688,5,Under the Banner of Heaven: A Story of Violent Faith
+15,3340,5,Merrick
+15,14,4,Animal Farm: A Fairy Story
+15,550,4,The Omnivore's Dilemma
+15,115,5,Middlesex
+15,8842,3,The Realm of Possibility
+15,344,4,Naked
+15,171,5,Emma
+15,36,5,The Giver
+18,572,4,Oryx and Crake
+18,3566,3,Black Swan Green
+18,2584,4,Down and Out in Paris and London
+18,557,4,The Virgin Suicides
+18,1102,2,Dry: A Memoir
+18,344,4,Naked
+18,3551,2,The Children of Men
+18,60,3,The Curious Incident of the Dog in the Night-Time
+18,101,4,Me Talk Pretty One Day
+18,372,3,Dress Your Family in Corduroy and Denim
+18,943,4,Holidays on Ice
+18,1923,4,Barrel Fever: Stories and Essays
+18,2615,4,I Like You: Hospitality Under the Influence
+18,4054,5,Andy Goldsworthy: A Collaboration with Nature
+4,3273,2,Bleachers
+4,1037,4,The Street Lawyer
+4,100,3,The Poisonwood Bible
+4,48,4,Fahrenheit 451
+4,95,4,The Picture of Dorian Gray
+4,1311,3,The Pilot's Wife
+4,387,4,The Crucible
+4,497,5,Black Beauty
+4,2190,4,"Cry
+4,1733,3,The Summons
+4,1301,3,The Broker
+4,489,5,The Prophet
+4,1435,4,Sophie's Choice
+4,1380,5,The Complete Maus
+4,221,4,"A Child Called ""It"": One Child's Courage to Survive"
+4,401,4,A Farewell to Arms
+4,131,4,The Grapes of Wrath
+4,3469,5,"Alas
+18,662,4,Interpreter of Maladies
+18,2770,5,A Man Without a Country
+18,9287,2,Jennifer Government
+18,13,4,Nineteen Eighty-Four
+18,119,4,The Handmaid's Tale
+18,1544,4,Disgrace
+18,426,4,A Confederacy of Dunces
+18,3219,3,The Little Friend
+18,55,4,Brave New World
+18,48,4,Fahrenheit 451
+18,65,5,"Slaughterhouse-Five
+18,405,4,Breakfast of Champions
+18,3068,4,Slapstick
+18,3202,4,Bluebeard
+18,7538,5,"Carry On
+18,7254,5,Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection
+22,264,2,The Sun Also Rises
+22,284,4,On the Road
+22,350,5,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream
+18,8329,4,Paris to the Moon
+8,45,3,Life of Pi
+24,378,4,The Namesake
+24,323,4,Nesnesitelná lehkost bytí
+24,100,4,The Poisonwood Bible
+24,1144,4,Prodigal Summer
+24,1752,5,Animal Dreams
+24,860,4,The Bean Trees
+24,2188,4,Pigs in Heaven
+24,1031,5,A Moveable Feast
+24,2304,5,This Side of Paradise
+24,7770,4,Tales of a Female Nomad: Living at Large in the World
+24,2142,5,Ἰλιάς ; Ὀδύσσεια
+24,4149,3,Ὀρέστεια
+24,233,4,El amor en los tiempos del cólera
+24,948,4,Empire Falls
+24,1936,5,A Widow for One Year
+24,2738,4,Balzac et la Petite Tailleuse chinoise
+24,2586,4,Griffin & Sabine: An Extraordinary Correspondence
+24,1970,3,Possession
+24,483,4,Franny and Zooey
+24,1329,4,Howl and Other Poems 
+24,7409,4,The Short Stories of F. Scott Fitzgerald
+24,9,4,Angels & Demons 
+24,326,5,White Oleander
+24,26,3,The Da Vinci Code
+24,33,4,Memoirs of a Geisha
+24,289,5,Watership Down
+24,662,5,Interpreter of Maladies
+22,7638,3,The Algebraist
+22,442,4,Snow Crash
+22,1142,4,Cryptonomicon
+22,3425,5,Wonder Boys
+22,176,5,It
+22,349,4,Salem's Lot
+22,232,2,The Gunslinger
+22,1589,4,Everything's Eventual: 14 Dark Tales
+22,1900,4,Nightmares & Dreamscapes 
+22,670,4,The Dead Zone
+22,1498,4,Hearts in Atlantis
+22,739,4,Different Seasons
+22,488,2,The Green Mile
+22,865,3,Night Shift
+22,1987,5,The Bachman Books
+22,2352,2,The Regulators
+22,168,5,The Stand
+22,3314,2,Quicksilver
+22,48,5,Fahrenheit 451
+22,2673,2,Rainbow Six
+22,9,2,Angels & Demons 
+22,1236,3,Haunted: A Novel of Stories
+22,289,5,Watership Down
+22,4810,4,The Naked and the Dead
+18,130,5,The Old Man and the Sea
+25,14,4,Animal Farm: A Fairy Story
+25,8336,4,ماهی سیاه کوچولو
+25,653,5,Ensaio Sobre a Cegueira
+25,5374,4,Směšné lásky 
+25,872,4,La peste
+25,8949,5,Paradiso
+25,977,5,Inferno
+25,4602,4,L'Amant
+25,7277,4,El otoño del patriarca
+25,5730,5,بوف کور
+25,483,5,Franny and Zooey
+25,4531,5,Žert
+25,58,4,The Adventures of Huckleberry Finn
+25,4,4,To Kill a Mockingbird
+25,13,4,Nineteen Eighty-Four
+25,2339,5,"Raise High the Roof Beam
+25,5940,5,Purgatorio
+25,65,5,"Slaughterhouse-Five
+25,2975,4,Kurt Vonnegut's Cat Cradle
+24,148,3,Girl with a Pearl Earring
+24,136,3,Divine Secrets of the Ya-Ya Sisterhood
+24,78,2,The Devil Wears Prada
+24,1639,4,The True Confessions of Charlotte Doyle
+24,186,3,The Other Boleyn Girl
+24,398,3,Fast Food Nation : The Dark Side of the All-American Meal 
+24,60,2,The Curious Incident of the Dog in the Night-Time
+24,2320,3,Chronicles: Volume One
+24,658,4,The Corrections
+22,450,3,Storm Front
+22,2298,3,Lies My Teacher Told Me : Everything Your American History Textbook Got Wrong
+28,3504,4,The Known World
+28,2615,5,I Like You: Hospitality Under the Influence
+24,741,3,The Girls' Guide to Hunting and Fishing
+32,238,4,Running with Scissors
+32,550,5,The Omnivore's Dilemma
+32,2357,5,The Botany of Desire: A Plant's-Eye View of the World
+32,758,5,Stiff: The Curious Lives of Human Cadavers
+32,101,4,Me Talk Pretty One Day
+32,344,4,Naked
+32,2615,4,I Like You: Hospitality Under the Influence
+32,9624,4,Cradle to Cradle: Remaking the Way We Make Things
+32,245,5,Bridge to Terabithia
+32,150,5,The Red Tent
+32,26,3,The Da Vinci Code
+32,9,3,Angels & Demons 
+32,66,5,Gone with the Wind
+32,2302,3,Scarlett: The Sequel to Margaret Mitchell's Gone With the Wind
+32,1272,4,"Eats
+32,2621,4,Traveling Mercies: Some Thoughts on Faith
+32,2,4,Harry Potter and the Philosopher's Stone
+32,398,4,Fast Food Nation : The Dark Side of the All-American Meal 
+32,848,3,The Bonesetter's Daughter
+32,3979,3,The Rule of Four
+32,236,4,Into Thin Air: A Personal Account of the Mt. Everest Disaster
+32,142,5,The Pillars of the Earth
+32,306,4,She's Come Undone
+32,122,4,Wicked: The Life and Times of the Wicked Witch of the West
+32,4317,4,Mirror Mirror
+32,2192,4,Confessions of an Ugly Stepsister
+32,42,5,Little Women
+32,114,4,Tuesdays with Morrie
+32,132,4,The Five People You Meet in Heaven
+32,22,4,The Lovely Bones
+32,5,4,The Great Gatsby
+32,8,5,The Catcher in the Rye
+32,6417,4,The Winter's Tale
+32,576,4,Candide
+32,431,3,Red Dragon
+32,7,3,The Hobbit or There and Back Again
+32,4682,3,A Dangerous Fortune
+32,1217,4,The Witching Hour
+29,27,5,Harry Potter and the Half-Blood Prince
+29,21,5,Harry Potter and the Order of the Phoenix
+29,2,5,Harry Potter and the Philosopher's Stone
+29,24,4,Harry Potter and the Goblet of Fire
+32,606,4,Jonathan Livingston Seagull
+32,85,5,The Giving Tree
+32,158,4,Charlie and the Chocolate Factory
+32,373,5,The BFG
+32,416,5,The Witches
+32,50,5,Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein
+32,32,5,Of Mice and Men 
+32,1383,3, 
+32,574,4,Kitchen Confidential: Adventures in the Culinary Underbelly
+32,179,4,Angela's Ashes: A Memoir
+32,14,3,Animal Farm: A Fairy Story
+32,33,4,Memoirs of a Geisha
+32,75,3, 
+32,136,4,Divine Secrets of the Ya-Ya Sisterhood
+32,3997,3,Little Altars Everywhere
+32,4095,3,Virgin
+32,1131,3,Chocolat
+25,5244,4,Il barone rampante
+34,498,5,Война и миръ
+32,9934,5,Nourishing Traditions:  The Cookbook that Challenges Politically Correct Nutrition and the Diet Dictocrats
+34,371,3,Stranger in a Strange Land
+34,1518,5,Один день Ивана Денисовича
+34,9588,4,The Keep
+34,162,4,L’Étranger
+34,2674,3,Fragile Things: Short Fictions and Wonders
+34,2620,3,Boy: Tales of Childhood
+34,89,4,The Princess Bride
+34,8995,3,Deerskin
+34,424,3,Il nome della rosa
+34,405,4,Breakfast of Champions
+34,2177,4,Мёртвые ду́ши
+34,611,4,The Silmarillion
+34,2209,5,The Complete Works
+34,1322,4,The Last Unicorn
+34,1312,3,White Noise
+34,10,4,Pride and Prejudice
+34,391,5,The Lorax
+34,442,5,Snow Crash
+34,408,2,"Guns
+34,958,5,The Complete Anne of Green Gables Boxed Set
+34,5326,4,Valis
+34,5101,4,We Wish to Inform You That Tomorrow We Will Be Killed with Our Families
+34,296,5,The Very Hungry Caterpillar
+34,740,4,The Little House Collection
+34,1657,5,Infinite Jest
+34,121,4,Lolita
+34,70,4,Ender's Game
+34,232,4,The Gunslinger
+34,9308,5,"The Dark Is Rising Sequence (The Dark Is Rising
+34,5830,4,Grimms Märchen
+34,547,4,The War of the Worlds
+34,3203,3,"Good Faeries
+34,400,4,Neuromancer
+34,3941,3,The Winter King
+34,1010,5,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury
+40,690,4,The Audacity of Hope: Thoughts on Reclaiming the American Dream
+40,179,5,Angela's Ashes: A Memoir
+40,1184,4,Tender Is the Night
+40,5,3,The Great Gatsby
+40,3123,3,Confessions of an Economic Hit Man
+40,1312,3,White Noise
+40,436,4,The God of Small Things
+40,32,3,Of Mice and Men 
+40,10,5,Pride and Prejudice
+40,4,5,To Kill a Mockingbird
+40,13,4,Nineteen Eighty-Four
+40,495,4,A Heartbreaking Work of Staggering Genius
+40,483,5,Franny and Zooey
+40,101,4,Me Talk Pretty One Day
+40,344,4,Naked
+40,659,3,Dreams from My Father
+40,63,3,Wuthering Heights
+40,587,4,Everything Is Illuminated
+40,249,4,Extremely Loud and Incredibly Close
+22,408,4,"Guns
+22,687,3,1776
+22,598,5,Assassin's Apprentice
+22,3278,3,The Mad Ship
+22,3298,3,Ship of Destiny
+22,1018,5,Royal Assassin
+22,2669,3,Ship of Magic
+22,1246,4,Assassin's Quest
+22,2299,2,Fool's Fate
+22,2382,3,The Golden Fool
+22,6578,2,Shaman's Crossing
+22,7316,3,Up Country
+22,8512,2,Battlefield Earth: A Saga of the Year 3000
+22,8214,4,Sin City: The Big Fat Kill
+22,2426,5,300
+22,1380,5,The Complete Maus
+22,633,5,Starship Troopers
+31,743,4,"Lamb: The Gospel According to Biff
+31,1153,3,A Dirty Job
+31,2034,3,Bloodsucking Fiends
+31,2923,3,Practical Demonkeeping
+31,3036,3,"Fluke: Or
+31,4979,3,Coyote Blue
+31,4031,3,Island of the Sequined Love Nun
+31,3883,3,The Lust Lizard of Melancholy Cove
+31,39,4,A Game of Thrones
+31,165,3,A Feast for Crows
+31,135,3,A Storm of Swords
+31,110,3,A Clash of Kings
+31,598,5,Assassin's Apprentice
+31,1018,4,Royal Assassin
+31,3278,4,The Mad Ship
+31,3298,4,Ship of Destiny
+31,1246,4,Assassin's Quest
+31,2669,4,Ship of Magic
+31,2382,3,The Golden Fool
+31,2299,3,Fool's Fate
+31,2,3,Harry Potter and the Philosopher's Stone
+31,24,3,Harry Potter and the Goblet of Fire
+31,21,3,Harry Potter and the Order of the Phoenix
+31,27,3,Harry Potter and the Half-Blood Prince
+31,23,3,Harry Potter and the Chamber of Secrets
+31,18,3,Harry Potter and the Prisoner of Azkaban
+31,1299,4,Still Life with Woodpecker
+31,4316,3,Half Asleep in Frog Pajamas
+31,3428,4,Fierce Invalids Home From Hot Climates
+31,4455,5,Rubyfruit Jungle
+31,70,5,Ender's Game
+31,360,4,Do Androids Dream of Electric Sheep?
+31,496,4,The Clan of the Cave Bear
+31,2406,4,The Mammoth Hunters
+31,2047,4,The Valley of Horses
+31,2965,4,The Plains of Passage
+31,806,4,Wizard and Glass
+31,1053,4,Song of Susannah
+31,612,4,The Drawing of the Three
+31,936,3,Wolves of the Calla
+31,1261,3,Eyes of the Dragon
+31,725,3,The Waste Lands
+31,232,4,The Gunslinger
+31,168,3,The Stand
+31,915,4,Insomnia
+31,7522,4,The Areas of My Expertise
+31,289,4,Watership Down
+31,2873,4,Lucifer's Hammer
+31,13,4,Nineteen Eighty-Four
+31,14,3,Animal Farm: A Fairy Story
+31,28,4,Lord of the Flies 
+31,499,3,American Psycho
+31,2051,3,Geek Love
+31,1868,4,I Am Legend 
+31,350,4,Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream
+31,2015,3,The Bridges of Madison County
+31,32,3,Of Mice and Men 
+31,287,1,The Fountainhead
+31,994,4,All Creatures Great And Small
+31,1656,4,All Things Bright and Beautiful
+31,5658,4,Vets Might Fly and Vet in a Spin
+31,7667,2,Lost Souls
+34,937,4,His Dark Materials
+43,8,4,The Catcher in the Rye
+43,101,4,Me Talk Pretty One Day
+43,709,5,Nine Stories
+43,426,5,A Confederacy of Dunces
+31,75,3, 
+22,45,5,Life of Pi
+31,33,3,Memoirs of a Geisha
+31,2615,3,I Like You: Hospitality Under the Influence
+31,272,4,Como agua para chocolate
+31,271,4,Flowers for Algernon
+31,2601,2,The Red Pony
+31,5100,3,Fantastic Voyage
+31,5563,3,Earth Abides
+31,136,2,Divine Secrets of the Ya-Ya Sisterhood
+31,101,4,Me Talk Pretty One Day
+31,55,4,Brave New World
+31,372,4,Dress Your Family in Corduroy and Denim
+32,2015,3,The Bridges of Madison County
+24,8,4,The Catcher in the Rye
+24,2,3,Harry Potter and the Philosopher's Stone
+24,23,3,Harry Potter and the Chamber of Secrets
+24,24,4,Harry Potter and the Goblet of Fire
+24,21,3,Harry Potter and the Order of the Phoenix
+49,867,3,The History of Love
+49,1843,5,Prep
+18,3237,4,Bastard Out of Carolina
+46,268,4,Never Let Me Go
+18,913,5,The Joy of Cooking
+46,483,5,Franny and Zooey
+50,217,4,"The Devil in the White City: Murder
+50,26,2,The Da Vinci Code
+53,270,2,Rebecca
+53,14,2,Animal Farm: A Fairy Story
+53,35,1,O Alquimista
+53,80,5,Le Petit Prince
+53,130,4,The Old Man and the Sea
+53,653,2,Ensaio Sobre a Cegueira
+24,27,4,Harry Potter and the Half-Blood Prince
+24,18,3,Harry Potter and the Prisoner of Azkaban
+24,3310,4,La chambre claire. Note sur la photographie
+24,119,4,The Handmaid's Tale
+24,883,3,The Blind Assassin
+55,212,5,Atonement
+55,3141,3,Amsterdam
+55,1544,5,Disgrace
+55,7462,5,Leviathan
+24,228,2,The Nanny Diaries
+55,2051,1,Geek Love
+24,11,4,The Kite Runner 
+58,26,1,The Da Vinci Code
+58,58,4,The Adventures of Huckleberry Finn
+58,18,5,Harry Potter and the Prisoner of Azkaban
+58,14,3,Animal Farm: A Fairy Story
+58,2,3,Harry Potter and the Philosopher's Stone
+58,653,5,Ensaio Sobre a Cegueira
+58,5,4,The Great Gatsby
+58,13,4,Nineteen Eighty-Four
+58,24,4,Harry Potter and the Goblet of Fire
+58,21,5,Harry Potter and the Order of the Phoenix
+58,27,4,Harry Potter and the Half-Blood Prince
+58,10,4,Pride and Prejudice
+58,11,4,The Kite Runner 
+58,65,4,"Slaughterhouse-Five
+55,264,5,The Sun Also Rises
+55,397,2,Das Parfum. Die Geschichte eines Mörders
+55,653,5,Ensaio Sobre a Cegueira
+24,1806,5,Fall on Your Knees
+46,1741,5,Death on the Nile
+55,520,4,ねじまき鳥クロニクル [Nejimakidori kuronikuru]
+46,672,5,Murder in the Calais Coach
+46,1410,5,The Murder of Roger Ackroyd
+46,2235,5,The ABC Murders
+46,7991,5,Hallowe'en Party
+46,3229,5,The Body in the Library
+46,5858,5,Cards on the Table
+46,9469,5,"One
+46,8215,5,The Moving Finger
+46,7208,5,Cat Among the Pigeons
+46,7619,5,Sleeping Murder
+46,5041,5,4.50 From Paddington
+46,6684,5,Death in the Clouds
+46,671,5,The Mysterious Affair at Styles
+46,5665,5,Murder in Mesopotamia
+46,6512,5,The Mirror Crack'd from Side to Side
+46,5505,5,Five Little Pigs
+46,4240,5,Evil Under the Sun
+46,9116,5,A Caribbean Mystery
+46,9494,5,They Do it with Mirrors
+46,7748,5,Nemesis
+46,5115,5,The Secret Adversary
+46,7681,5,Elephants Can Remember
+46,5861,5,Appointment with Death
+46,8868,5,At Bertram's Hotel
+46,6078,5,Curtain: Poirot’s Last Case
+55,43,5,Jane Eyre
+46,6501,5,Crooked House
+46,6211,5,The Big Four
+46,7607,5,Lord Edgware Dies
+46,7006,5,The Mystery of the Blue Train
+46,8156,5,After the Funeral 
+46,6087,5,Hercule Poirot's Christmas
+46,3752,5,Poirot Investigates
+46,6212,5,Peril at End House
+46,200,5,Ten Little Niggers
+46,1058,5,Murder at the Vicarage
+46,4728,5,A Murder is Announced
+61,11,5,The Kite Runner 
+61,33,3,Memoirs of a Geisha
+61,26,3,The Da Vinci Code
+61,2,4,Harry Potter and the Philosopher's Stone
+61,24,4,Harry Potter and the Goblet of Fire
+61,21,4,Harry Potter and the Order of the Phoenix
+61,27,4,Harry Potter and the Half-Blood Prince
+61,18,4,Harry Potter and the Prisoner of Azkaban
+61,57,4,The Secret Life of Bees
+61,273,3,Snow Flower and the Secret Fan
+55,217,3,"The Devil in the White City: Murder
+34,570,3,High Fidelity
+34,60,2,The Curious Incident of the Dog in the Night-Time
+34,168,4,The Stand
+34,172,4,Анна Каренина
+34,546,2,Zen and the Art of Motorcycle Maintenance
+53,1664,5,A Room of One's Own
+53,213,3,Die Verwandlung
+53,315,1,Who Moved My Cheese?
+53,4862,4,The Missing Piece
+53,66,5,Gone with the Wind
+62,572,5,Oryx and Crake
+62,171,3,Emma
+62,1041,4,Идиот
+62,701,4,Mrs Dalloway
+58,8336,4,ماهی سیاه کوچولو
+58,2716,4,Dead Poets Society 
+58,7639,5,Meu Pé de Laranja Lima
+58,941,3,The Hours
+58,4640,4,Cathedral
+58,177,5,Преступление и наказание
+58,80,5,Le Petit Prince
+58,4068,4,Daddy-Long-Legs       
+58,270,3,Rebecca
+58,8946,5,دیوان‎‎ [Dīvān]
+58,66,5,Gone with the Wind
+58,148,4,Girl with a Pearl Earring
+58,5551,4,La fiesta del chivo
+58,189,4,The Lord of the Rings
+53,6195,1,Amerika
+53,2027,3,Se una notte d'inverno un viaggiatore
+53,786,3,Falling Up
+53,4602,1,L'Amant
+53,8336,1,ماهی سیاه کوچولو
+53,489,2,The Prophet
+53,125,5,"The Tragicall Historie of Hamlet
+65,161,5,The Return of the King
+65,180,4,Siddhartha
+65,129,5,One Flew Over the Cuckoo's Nest
+65,155,4,The Two Towers
+65,213,4,Die Verwandlung
+65,8,5,The Catcher in the Rye
+65,5,5,The Great Gatsby
+65,26,1,The Da Vinci Code
+65,2,4,Harry Potter and the Philosopher's Stone
+65,24,5,Harry Potter and the Goblet of Fire
+65,21,5,Harry Potter and the Order of the Phoenix
+65,27,5,Harry Potter and the Half-Blood Prince
+65,14,4,Animal Farm: A Fairy Story
+65,18,5,Harry Potter and the Prisoner of Azkaban
+65,55,5,Brave New World
+65,58,5,The Adventures of Huckleberry Finn
+65,32,4,Of Mice and Men 
+65,2041,1,Lisey's Story
+65,953,4,The Dark Tower
+65,176,5,It
+65,936,4,Wolves of the Calla
+65,1053,3,Song of Susannah
+65,612,4,The Drawing of the Three
+65,232,5,The Gunslinger
+65,305,2,Pet Sematary
+65,806,5,Wizard and Glass
+65,556,4,Cujo
+66,10,3,Pride and Prejudice
+66,76,2,Sense and Sensibility
+66,2,2,Harry Potter and the Philosopher's Stone
+66,35,4,O Alquimista
+66,629,2,Veronika decide morrer
+66,2902,2,O Monte Cinco
+54,81,5,The Glass Castle
+54,199,5,Marley & Me: Life and Love with the World's Worst Dog
+56,2679,4,Three Junes
+32,59,4,Charlotte's Web
+32,857,5,The Westing Game
+32,102,5,Where the Wild Things Are
+32,160,2,Great Expectations
+32,530,5,Much Ado About Nothing
+32,125,4,"The Tragicall Historie of Hamlet
+32,321,4,Where the Red Fern Grows
+32,138,3,The Scarlet Letter
+32,387,3,The Crucible
+53,26,3,The Da Vinci Code
+32,531,3,Beowulf
+32,733,4,Snow Falling on Cedars
+69,8,5,The Catcher in the Rye
+69,89,4,The Princess Bride
+69,35,3,O Alquimista
+69,26,3,The Da Vinci Code
+69,4,5,To Kill a Mockingbird
+69,32,5,Of Mice and Men 
+69,5,5,The Great Gatsby
+70,323,5,Nesnesitelná lehkost bytí
+70,26,4,The Da Vinci Code
+70,80,5,Le Petit Prince
+70,7022,3,L'ignorance
+70,5792,4,L'identité
+70,709,5,Nine Stories
+70,1206,4,Na margem do rio Piedra eu sentei e chorei
+70,629,4,Veronika decide morrer
+70,1663,2,Brida
+70,1835,4,O Demônio e a Srta. Prym
+70,1506,4,O Zahir
+70,9473,3,Maktub
+70,3928,5,When Nietzsche Wept: A Novel of Obsession
+70,2027,3,Se una notte d'inverno un viaggiatore
+63,121,3,Lolita
+63,130,4,The Old Man and the Sea
+70,597,5,Don Quijote de La Mancha
+70,8704,4,Воскресение
+70,653,5,Ensaio Sobre a Cegueira
+63,10,2,Pride and Prejudice
+63,32,3,Of Mice and Men 
+63,315,3,Who Moved My Cheese?
+70,154,4,The Tragedy of Macbeth
+70,29,5,An Excellent conceited Tragedie of Romeo and Juliet
+70,125,5,"The Tragicall Historie of Hamlet
+70,353,4,"The Tragedy of Othello
+70,770,3,The Tragedy of Julius Caesar
+70,530,4,Much Ado About Nothing
+70,839,4,The Merchant of Venice
+70,248,4,A Midsummer Night's Dream
+70,773,3,The Taming of the Shrew
+70,8336,3,ماهی سیاه کوچولو
+70,270,4,Rebecca
+70,489,3,The Prophet
+70,606,2,Jonathan Livingston Seagull
+72,4,5,To Kill a Mockingbird
+72,55,3,Brave New World
+72,8,2,The Catcher in the Rye
+72,550,5,The Omnivore's Dilemma
+70,7810,4,La lenteur
+72,1714,5,The Kitchen God's Wife
+72,118,5,The Joy Luck Club
+72,848,4,The Bonesetter's Daughter
+72,867,2,The History of Love
+72,10,5,Pride and Prejudice
+72,2136,4,The Jane Austen Book Club
+72,230,4,Persuasion
+72,171,5,Emma
+72,471,4,Mansfield Park
+70,35,3,O Alquimista
+70,401,3,A Farewell to Arms
+70,1580,4,Et dukkehjem
+70,427,4,The Importance of Being Earnest
+70,95,3,The Picture of Dorian Gray
+70,935,2,White Fang
+73,5024,4,Written on the Body
+73,8692,5,Sexing the Cherry
+73,6808,5,The Passion
+73,3933,3,Spook: Science Tackles the Afterlife
+73,758,5,Stiff: The Curious Lives of Human Cadavers
+73,268,4,Never Let Me Go
+73,820,5,The Remains of the Day
+73,380,5,ノルウェイの森 [Noruwei no Mori]
+73,851,4,Flowers in the Attic
+73,611,3,The Silmarillion
+73,270,5,Rebecca
+73,3761,4,The Dirt: Confessions of the World's Most Notorious Rock Band
+73,7715,5,Essays in Love
+73,80,5,Le Petit Prince
+73,115,4,Middlesex
+73,709,5,Nine Stories
+73,8,5,The Catcher in the Rye
+73,131,3,The Grapes of Wrath
+73,730,3,The Pearl of the World
+73,1161,4,Cannery Row 
+73,32,4,Of Mice and Men 
+73,1970,5,Possession
+73,63,4,Wuthering Heights
+73,65,4,"Slaughterhouse-Five
+73,178,5,The Bell Jar
+73,177,4,Преступление и наказание
+73,121,5,Lolita
+73,219,5,The Chronicles of Narnia
+73,162,5,L’Étranger
+73,614,3,Der Prozeß
+73,587,3,Everything Is Illuminated
+73,58,4,The Adventures of Huckleberry Finn
+73,6128,5,Maurice
+73,427,5,The Importance of Being Earnest
+73,180,3,Siddhartha
+73,5,4,The Great Gatsby
+73,26,3,The Da Vinci Code
+73,4,3,To Kill a Mockingbird
+73,24,4,Harry Potter and the Goblet of Fire
+73,21,4,Harry Potter and the Order of the Phoenix
+73,27,4,Harry Potter and the Half-Blood Prince
+73,18,4,Harry Potter and the Prisoner of Azkaban
+73,10,5,Pride and Prejudice
+73,28,5,Lord of the Flies 
+73,23,4,Harry Potter and the Chamber of Secrets
+73,287,3,The Fountainhead
+73,130,4,The Old Man and the Sea
+73,405,3,Breakfast of Champions
+73,829,3,A Room with a View
+73,1949,4,Howards End
+73,2403,5,A Passage to India
+70,172,5,Анна Каренина
+70,10,3,Pride and Prejudice
+70,478,3,"The Life and Strange Surprising Adventures of Robinson Crusoe of York
+73,171,5,Emma
+73,1571,4,The Naked Lunch
+73,2097,4,Demian: Die Geschichte einer Jugend
+73,570,5,High Fidelity
+73,1421,3,A Long Way Down
+73,3476,4,Fever Pitch
+73,9083,4,31 Songs
+73,646,4,Tales of Caunterbury
+73,321,5,Where the Red Fern Grows
+73,173,5,A Clockwork Orange
+73,5210,5,Surveiller et punir. Naissance de la prison
+73,2259,3,Il pendolo di Foucault
+73,2798,5,"I
+73,397,4,Das Parfum. Die Geschichte eines Mörders
+73,6634,4,Suttree
+73,3808,5,"A Good Man Is Hard to Find
+73,4942,5,Wise Blood
+73,71,5,"Frankenstein; or
+73,97,5,Dracula
+73,499,4,American Psycho
+73,5238,5,Glamorama
+73,66,5,Gone with the Wind
+73,618,4,The Hound of the Baskervilles
+73,5508,5,"Sherlock Holmes: The Complete Novels and Stories
+73,4707,4,The Long Hard Road Out of Hell
+73,2,4,Harry Potter and the Philosopher's Stone
+59,5,3,The Great Gatsby
+59,4068,3,Daddy-Long-Legs       
+59,635,3,Sofies Verden
+59,1206,3,Na margem do rio Piedra eu sentei e chorei
+59,786,3,Falling Up
+59,94,3,Cien años de soledad
+59,8336,5,ماهی سیاه کوچولو
+74,8882,5, سمفونی مردگان
+59,80,5,Le Petit Prince
+59,26,4,The Da Vinci Code
+59,14,3,Animal Farm: A Fairy Story
+59,2024,3,La Chute
+74,582,5,"Rich Dad 
+74,3009,5,Cashflow Quadrant: Rich Dad's Guide to Financial Freedom
+59,941,3,The Hours
+59,662,4,Interpreter of Maladies
+59,378,4,The Namesake
+74,125,2,"The Tragicall Historie of Hamlet
+74,718,3,The Sound and the Fury
+59,35,1,O Alquimista
+59,653,3,Ensaio Sobre a Cegueira
+74,2323,2,Tell Me Your Dreams
+59,6921,4,Funny in Farsi: A Memoir of Growing Up Iranian in America
+74,3029,5,Rage of Angels
+74,6324,3,"Morning
+74,6306,3,Memories of Midnight
+74,3569,3,Nothing Lasts Forever
+74,2073,5,Master of the Game
+74,5423,3,The Sky is Falling
+74,5525,3,A Stranger in the Mirror
+74,3640,3,Windmills of the Gods
+74,6399,4,The Stars Shine Down
+74,3760,3,The Sands of Time
+74,2595,3,The Other Side of Midnight
+74,4353,4,The Sands of Time
+74,1755,5,If Tomorrow Comes
+73,3457,5,Les Fleurs du mal
+73,2903,3,The Power of Myth
+73,5283,4,The Hero with a Thousand Faces
+73,354,5,Beloved
+73,468,4,Their Eyes Were Watching God
+73,7416,2,"The Life and Opinions of Tristram Shandy
+74,375,4,The Call of the Wild
+74,1650,4,The Call of the Wild / White Fang
+74,935,4,White Fang
+59,629,3,Veronika decide morrer
+59,1663,2,Brida
+59,489,1,The Prophet
+59,5730,4,بوف کور
+73,1373,5,The Indian in the Cupboard
+73,117,5,A Wrinkle in Time
+73,872,4,La peste
+73,1113,5,Also sprach Zarathustra
+73,621,4,"Are You There God? It's Me
+73,999,4,Tales of a Fourth Grade Nothing
+75,3254,2,The Stupidest Angel: A Heartwarming Tale of Christmas Terror
+75,6777,5,The Dogs of Babel
+75,11,5,The Kite Runner 
+59,3379,4,Le Père Goriot
+75,372,4,Dress Your Family in Corduroy and Denim
+75,476,3,The World According to Garp
+75,115,4,Middlesex
+75,741,4,The Girls' Guide to Hunting and Fishing
+75,743,3,"Lamb: The Gospel According to Biff
+75,122,4,Wicked: The Life and Times of the Wicked Witch of the West
+75,1714,4,The Kitchen God's Wife
+75,109,3,Les Misérables
+75,7379,3,The Pleasure of My Company
+75,22,4,The Lovely Bones
+75,150,4,The Red Tent
+75,9854,3,The Last Days of Dogtown
+75,63,4,Wuthering Heights
+75,662,4,Interpreter of Maladies
+75,378,4,The Namesake
+76,8,4,The Catcher in the Rye
+76,24,5,Harry Potter and the Goblet of Fire
+76,21,5,Harry Potter and the Order of the Phoenix
+76,18,5,Harry Potter and the Prisoner of Azkaban
